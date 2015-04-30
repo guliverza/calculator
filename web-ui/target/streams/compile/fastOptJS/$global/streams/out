@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mFast optimizing /home/guliver/projects/reactive/calculator/web-ui/target/scala-2.11/webui-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 4014 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 33498 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 160041 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 3461 -- invalidated: 15 -- trees read: 9[0m
+[0m[[0mdebug[0m] [0mLinker: 198901 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 15251 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 3 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 4178 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 22606 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 27098 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 3790 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 31094 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 373 -- invalidated: 9[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 1940 -- invalidated: 2[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 50947 us[0m
